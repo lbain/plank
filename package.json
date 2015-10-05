@@ -1,0 +1,17 @@
+{
+  "name": "plank",
+  "version": "0.0.0",
+  "description": "Slowly increase your plank time",
+  "main": "app.js",
+  "dependencies": {
+    "timer.js": "^1.0.3"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1"
+  },
+  "author": "Lucy Bain",
+  "license": "MIT"
+}
